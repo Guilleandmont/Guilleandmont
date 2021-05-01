@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillermo
 - 👀 I’m interested in science, software development, web development and molecular biology.
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Next 
 - 💞️ I’m looking to collaborate on nothing yet!
 - 📫 Say hello!
 
